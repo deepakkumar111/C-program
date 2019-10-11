@@ -6,6 +6,6 @@ int main()
     b=a-b;
     a=a-b;
     return 0;
-
+// b=a+b-(a=b);
 
 }
